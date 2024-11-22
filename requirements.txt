@@ -1,0 +1,16 @@
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
+tiktoken
+transformers
+torch
+langchain
+InstructorEmbedding
+
+
+huggingface-hub
+
+InstructorEmbedding
+sentence-transformers
